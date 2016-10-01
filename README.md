@@ -3,7 +3,14 @@
 
 * anagram
 
+    * anagrams? method is added in String base class
+    * Usage: "momdad".anagrams?("dadmomm")
+
 * flatten
+    * my_flatten method is added in in Array base class
+    * Usage:
+        * [1,2,3,[4,5]].my_flatten
+        * [1,2,3,[4,5,[1,2,3]]].my_flatten(2)
 
 
 * scrap_data
