@@ -1,0 +1,452 @@
+[
+  {
+    "name": "Princeton University, Princeton, NJ",
+    "rank": 1,
+    "tuition_fees": "$45,320",
+    "total_enrollment": "5,402",
+    "acceptance_rate": null,
+    "average_retention_rates": null,
+    "graduation_rate": null
+  },
+  {
+    "name": "Harvard University, Cambridge, MA",
+    "rank": 2,
+    "tuition_fees": "$47,074",
+    "total_enrollment": "6,699",
+    "acceptance_rate": null,
+    "average_retention_rates": null,
+    "graduation_rate": null
+  },
+  {
+    "name": "University of Chicago, Chicago, IL",
+    "rank": 3,
+    "tuition_fees": "$52,491",
+    "total_enrollment": "5,844",
+    "acceptance_rate": null,
+    "average_retention_rates": null,
+    "graduation_rate": null
+  },
+  {
+    "name": "Yale University, New Haven, CT",
+    "rank": 3,
+    "tuition_fees": "$49,480",
+    "total_enrollment": "5,532",
+    "acceptance_rate": null,
+    "average_retention_rates": null,
+    "graduation_rate": null
+  },
+  {
+    "name": "Columbia University, New York, NY",
+    "rank": 5,
+    "tuition_fees": "$55,056",
+    "total_enrollment": "6,102",
+    "acceptance_rate": null,
+    "average_retention_rates": null,
+    "graduation_rate": null
+  },
+  {
+    "name": "Stanford University, Stanford, CA",
+    "rank": 5,
+    "tuition_fees": "$47,940",
+    "total_enrollment": "6,999",
+    "acceptance_rate": null,
+    "average_retention_rates": null,
+    "graduation_rate": null
+  },
+  {
+    "name": "Massachusetts Institute of Technology, Cambridge, MA",
+    "rank": 7,
+    "tuition_fees": "$48,452",
+    "total_enrollment": "4,527",
+    "acceptance_rate": null,
+    "average_retention_rates": null,
+    "graduation_rate": null
+  },
+  {
+    "name": "Duke University, Durham, NC",
+    "rank": 8,
+    "tuition_fees": "$51,265",
+    "total_enrollment": "6,639",
+    "acceptance_rate": null,
+    "average_retention_rates": null,
+    "graduation_rate": null
+  },
+  {
+    "name": "University of Pennsylvania, Philadelphia, PA",
+    "rank": 8,
+    "tuition_fees": "$51,464",
+    "total_enrollment": "9,726",
+    "acceptance_rate": null,
+    "average_retention_rates": null,
+    "graduation_rate": null
+  },
+  {
+    "name": "Johns Hopkins University, Baltimore, MD",
+    "rank": 10,
+    "tuition_fees": "$50,410",
+    "total_enrollment": "6,524",
+    "acceptance_rate": null,
+    "average_retention_rates": null,
+    "graduation_rate": null
+  },
+  {
+    "name": "Dartmouth College, Hanover, NH",
+    "rank": 11,
+    "tuition_fees": "$51,438",
+    "total_enrollment": "4,307",
+    "acceptance_rate": null,
+    "average_retention_rates": null,
+    "graduation_rate": null
+  },
+  {
+    "name": "California Institute of Technology, Pasadena, CA",
+    "rank": 12,
+    "tuition_fees": "$47,577",
+    "total_enrollment": "1,001",
+    "acceptance_rate": null,
+    "average_retention_rates": null,
+    "graduation_rate": null
+  },
+  {
+    "name": "Northwestern University, Evanston, IL",
+    "rank": 12,
+    "tuition_fees": "$50,855",
+    "total_enrollment": "8,314",
+    "acceptance_rate": null,
+    "average_retention_rates": null,
+    "graduation_rate": null
+  },
+  {
+    "name": "Brown University, Providence, RI",
+    "rank": 14,
+    "tuition_fees": "$51,367",
+    "total_enrollment": "6,652",
+    "acceptance_rate": null,
+    "average_retention_rates": null,
+    "graduation_rate": null
+  },
+  {
+    "name": "Cornell University, Ithaca, NY",
+    "rank": 15,
+    "tuition_fees": "$50,953",
+    "total_enrollment": "14,315",
+    "acceptance_rate": null,
+    "average_retention_rates": null,
+    "graduation_rate": null
+  },
+  {
+    "name": "Rice University, Houston, TX",
+    "rank": 15,
+    "tuition_fees": "$43,918",
+    "total_enrollment": "3,910",
+    "acceptance_rate": null,
+    "average_retention_rates": null,
+    "graduation_rate": null
+  },
+  {
+    "name": "University of Notre Dame, Notre Dame, IN",
+    "rank": 15,
+    "tuition_fees": "$49,685",
+    "total_enrollment": "8,462",
+    "acceptance_rate": null,
+    "average_retention_rates": null,
+    "graduation_rate": null
+  },
+  {
+    "name": "Vanderbilt University, Nashville, TN",
+    "rank": 15,
+    "tuition_fees": "$45,610",
+    "total_enrollment": "6,883",
+    "acceptance_rate": null,
+    "average_retention_rates": null,
+    "graduation_rate": null
+  },
+  {
+    "name": "Washington University in St. Louis, St. Louis, MO",
+    "rank": 19,
+    "tuition_fees": "$49,770",
+    "total_enrollment": "7,504",
+    "acceptance_rate": null,
+    "average_retention_rates": null,
+    "graduation_rate": null
+  },
+  {
+    "name": "Emory University, Atlanta, GA",
+    "rank": 20,
+    "tuition_fees": "$47,954",
+    "total_enrollment": "6,867",
+    "acceptance_rate": null,
+    "average_retention_rates": null,
+    "graduation_rate": null
+  },
+  {
+    "name": "Georgetown University, Washington, DC",
+    "rank": 20,
+    "tuition_fees": "$50,547",
+    "total_enrollment": "7,562",
+    "acceptance_rate": null,
+    "average_retention_rates": null,
+    "graduation_rate": null
+  },
+  {
+    "name": "University of California--Berkeley, Berkeley, CA",
+    "rank": 20,
+    "tuition_fees": "$40,191 (out-of-state), $13,509 (in-state)",
+    "total_enrollment": "27,496",
+    "acceptance_rate": null,
+    "average_retention_rates": null,
+    "graduation_rate": null
+  },
+  {
+    "name": "University of Southern California, Los Angeles, CA",
+    "rank": 23,
+    "tuition_fees": "$52,217",
+    "total_enrollment": "18,810",
+    "acceptance_rate": null,
+    "average_retention_rates": null,
+    "graduation_rate": null
+  },
+  {
+    "name": "Carnegie Mellon University, Pittsburgh, PA",
+    "rank": 24,
+    "tuition_fees": "$52,040",
+    "total_enrollment": "6,454",
+    "acceptance_rate": null,
+    "average_retention_rates": null,
+    "graduation_rate": null
+  },
+  {
+    "name": "University of California--Los Angeles, Los Angeles, CA",
+    "rank": 24,
+    "tuition_fees": "$39,518 (out-of-state), $12,836 (in-state)",
+    "total_enrollment": "29,585",
+    "acceptance_rate": null,
+    "average_retention_rates": null,
+    "graduation_rate": null
+  },
+  {
+    "name": "University of Virginia, Charlottesville, VA",
+    "rank": 24,
+    "tuition_fees": "$45,066 (out-of-state), $15,722 (in-state)",
+    "total_enrollment": "16,736",
+    "acceptance_rate": null,
+    "average_retention_rates": null,
+    "graduation_rate": null
+  },
+  {
+    "name": "Tufts University, Medford, MA",
+    "rank": 27,
+    "tuition_fees": "$52,430",
+    "total_enrollment": "5,290",
+    "acceptance_rate": null,
+    "average_retention_rates": null,
+    "graduation_rate": null
+  },
+  {
+    "name": "University of Michigan--Ann Arbor, Ann Arbor, MI",
+    "rank": 27,
+    "tuition_fees": "$43,476 (out-of-state), $13,856 (in-state)",
+    "total_enrollment": "28,312",
+    "acceptance_rate": null,
+    "average_retention_rates": null,
+    "graduation_rate": null
+  },
+  {
+    "name": "Wake Forest University, Winston-Salem, NC",
+    "rank": 27,
+    "tuition_fees": "$49,308",
+    "total_enrollment": "4,871",
+    "acceptance_rate": null,
+    "average_retention_rates": null,
+    "graduation_rate": null
+  },
+  {
+    "name": "University of North Carolina--Chapel Hill, Chapel Hill, NC",
+    "rank": 30,
+    "tuition_fees": "$33,916 (out-of-state), $8,834 (in-state)",
+    "total_enrollment": "18,415",
+    "acceptance_rate": null,
+    "average_retention_rates": null,
+    "graduation_rate": null
+  },
+  {
+    "name": "Boston College, Chestnut Hill, MA",
+    "rank": 31,
+    "tuition_fees": "$51,296",
+    "total_enrollment": "9,192",
+    "acceptance_rate": null,
+    "average_retention_rates": null,
+    "graduation_rate": null
+  },
+  {
+    "name": "College of William & Mary, Williamsburg, VA",
+    "rank": 32,
+    "tuition_fees": "$41,718 (out-of-state), $18,687 (in-state)",
+    "total_enrollment": "6,301",
+    "acceptance_rate": null,
+    "average_retention_rates": null,
+    "graduation_rate": null
+  },
+  {
+    "name": "University of Rochester, Rochester, NY",
+    "rank": 32,
+    "tuition_fees": "$50,142",
+    "total_enrollment": "6,304",
+    "acceptance_rate": null,
+    "average_retention_rates": null,
+    "graduation_rate": null
+  },
+  {
+    "name": "Brandeis University, Waltham, MA",
+    "rank": 34,
+    "tuition_fees": "$51,570",
+    "total_enrollment": "3,621",
+    "acceptance_rate": null,
+    "average_retention_rates": null,
+    "graduation_rate": null
+  },
+  {
+    "name": "Georgia Institute of Technology, Atlanta, GA",
+    "rank": 34,
+    "tuition_fees": "$32,404 (out-of-state), $12,212 (in-state)",
+    "total_enrollment": "15,142",
+    "acceptance_rate": null,
+    "average_retention_rates": null,
+    "graduation_rate": null
+  },
+  {
+    "name": "New York University, New York, NY",
+    "rank": 36,
+    "tuition_fees": "$49,062",
+    "total_enrollment": "25,722",
+    "acceptance_rate": null,
+    "average_retention_rates": null,
+    "graduation_rate": null
+  },
+  {
+    "name": "Case Western Reserve University, Cleveland, OH",
+    "rank": 37,
+    "tuition_fees": "$46,006",
+    "total_enrollment": "5,121",
+    "acceptance_rate": null,
+    "average_retention_rates": null,
+    "graduation_rate": null
+  },
+  {
+    "name": "University of California--Santa Barbara, Santa Barbara, CA",
+    "rank": 37,
+    "tuition_fees": "$40,704 (out-of-state), $14,022 (in-state)",
+    "total_enrollment": "20,607",
+    "acceptance_rate": null,
+    "average_retention_rates": null,
+    "graduation_rate": null
+  },
+  {
+    "name": "Boston University, Boston, MA",
+    "rank": 39,
+    "tuition_fees": "$50,240",
+    "total_enrollment": "17,932",
+    "acceptance_rate": null,
+    "average_retention_rates": null,
+    "graduation_rate": null
+  },
+  {
+    "name": "Northeastern University, Boston, MA",
+    "rank": 39,
+    "tuition_fees": "$47,655",
+    "total_enrollment": "13,697",
+    "acceptance_rate": null,
+    "average_retention_rates": null,
+    "graduation_rate": null
+  },
+  {
+    "name": "Rensselaer Polytechnic Institute, Troy, NY",
+    "rank": 39,
+    "tuition_fees": "$50,797",
+    "total_enrollment": "5,864",
+    "acceptance_rate": null,
+    "average_retention_rates": null,
+    "graduation_rate": null
+  },
+  {
+    "name": "Tulane University, New Orleans, LA",
+    "rank": 39,
+    "tuition_fees": "$51,010",
+    "total_enrollment": "6,662",
+    "acceptance_rate": null,
+    "average_retention_rates": null,
+    "graduation_rate": null
+  },
+  {
+    "name": "University of California--Irvine, Irvine, CA",
+    "rank": 39,
+    "tuition_fees": "$39,458 (out-of-state), $14,750 (in-state)",
+    "total_enrollment": "25,256",
+    "acceptance_rate": null,
+    "average_retention_rates": null,
+    "graduation_rate": null
+  },
+  {
+    "name": "Lehigh University, Bethlehem, PA",
+    "rank": 44,
+    "tuition_fees": "$48,320",
+    "total_enrollment": "5,075",
+    "acceptance_rate": null,
+    "average_retention_rates": null,
+    "graduation_rate": null
+  },
+  {
+    "name": "University of California--Davis, Davis, CA",
+    "rank": 44,
+    "tuition_fees": "$40,728 (out-of-state), $14,046 (in-state)",
+    "total_enrollment": "28,384",
+    "acceptance_rate": null,
+    "average_retention_rates": null,
+    "graduation_rate": null
+  },
+  {
+    "name": "University of California--San Diego, La Jolla, CA",
+    "rank": 44,
+    "tuition_fees": "$41,387 (out-of-state), $14,705 (in-state)",
+    "total_enrollment": "26,590",
+    "acceptance_rate": null,
+    "average_retention_rates": null,
+    "graduation_rate": null
+  },
+  {
+    "name": "University of Illinois--Urbana-Champaign, Champaign, IL",
+    "rank": 44,
+    "tuition_fees": "$31,320 (out-of-state), $15,698 (in-state)",
+    "total_enrollment": "33,368",
+    "acceptance_rate": null,
+    "average_retention_rates": null,
+    "graduation_rate": null
+  },
+  {
+    "name": "University of Miami, Coral Gables, FL",
+    "rank": 44,
+    "tuition_fees": "$47,004",
+    "total_enrollment": "11,122",
+    "acceptance_rate": null,
+    "average_retention_rates": null,
+    "graduation_rate": null
+  },
+  {
+    "name": "University of Wisconsin--Madison, Madison, WI",
+    "rank": 44,
+    "tuition_fees": "$32,738 (out-of-state), $10,488 (in-state)",
+    "total_enrollment": "31,662",
+    "acceptance_rate": null,
+    "average_retention_rates": null,
+    "graduation_rate": null
+  },
+  {
+    "name": "Pennsylvania State University--University Park, University Park, PA",
+    "rank": 50,
+    "tuition_fees": "$32,382 (out-of-state), $17,900 (in-state)",
+    "total_enrollment": "40,742",
+    "acceptance_rate": null,
+    "average_retention_rates": null,
+    "graduation_rate": null
+  }
+]

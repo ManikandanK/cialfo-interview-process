@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta http-equiv="Content-type" content="text/html; charset=utf-8">
+        <meta name="viewport" content="width=device-width,initial-scale=1">
+        <title>College Data</title>
+        <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.12/css/jquery.dataTables.min.css">
+        <style type="text/css" class="init">
+
+        </style>
+        </script>
+         </script>
+        <script type="text/javascript" language="javascript" src="https://code.jquery.com/jquery-1.12.3.js">
+        </script>
+        <script type="text/javascript" language="javascript" src="https://cdn.datatables.net/1.10.12/js/jquery.dataTables.min.js">
+        </script>
+        <script type="text/javascript">
+            $(document).ready(function() {
+                $('#colleges').DataTable( {
+                    "ajax": {
+                        "url": "./data.json",
+                        "dataSrc": ""
+                    },
+                    "columns": [
+                        { "data": "name" },
+                        { "data": "rank" },
+                        { "data": "tuition_fees" },
+                        { "data": "total_enrollment" },
+                        { "data": "acceptance_rate" },
+                        { "data": "average_retention_rates" },
+                        { "data": "graduation_rate" }
+                    ]
+                } );
+            } );
+        </script>
+        <style>
+            header {
+                margin: 20px;
+                background-color: royalblue;
+            }
+
+            header a,img {
+                background-color: white;
+                float: left;
+            }
+
+            header h1 {
+                text-align: center;
+                color: white;
+            }
+            section {
+               margin: 40px;
+            }
+
+        </style>
+    </head>
+
+
+    <body>
+        <header >
+                <a class="item nav-logo" href="/" data-track="Navigation;clicked_logo_home;">
+                    <img src="https://cialfo.co/sites/577b359d4cb20714a345071d/theme/images/blue-logo@2x.png?1467872870" alt="CIALFO Logo" data-retina="" width="160px" height="51px">
+                </a>
+                 <h1> College List</h1>
+
+        </header>
+        <section>
+            <table id="colleges" class="display" cellspacing="0" width="100%">
+                <thead>
+                <tr>
+                    <th>Name</th>
+                    <th>Rank</th>
+                    <th>Tuition Fees</th>
+                    <th>Total Enrolment</th>
+                    <th>Acceptance Rate</th>
+                    <th>Average Retention Rates</th>
+                    <th>Graduation Rate</th>
+                </tr>
+                </thead>
+            </table>
+        </section>
+    </body>
+</html>
+
+
